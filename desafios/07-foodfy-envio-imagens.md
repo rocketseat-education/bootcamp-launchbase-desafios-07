@@ -6,7 +6,7 @@
   Desafio 7: Envio de imagens Foodfy
 </h3>
 
-<blockquote align="center">“Todo programador é um autor.”</blockquote>
+<blockquote align="center">“Quanto mais você estuda, mais aprende e se aproxima de realizar seu sonhos!”</blockquote>
 
 <p align="center">
 
